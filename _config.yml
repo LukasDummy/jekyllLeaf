@@ -9,20 +9,15 @@ collections:
     title: Uploads
     output: true
 email: your-email@example.com
-<<<<<<< HEAD
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
+navigation:
+  - menu: About
+    url: /about/
 baseurl: "/jekyllLeaf" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-=======
-description: Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
-baseurl: "/jekyllLeaf"
-url: ''
->>>>>>> 871dc27a6dc1591ad918bbcfa1009e7fd7366d9b
 twitter_username: jekyllrb
 github_username: jekyll
 markdown: kramdown
