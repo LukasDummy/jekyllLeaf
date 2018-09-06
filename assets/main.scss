@@ -4,4 +4,9 @@
 
 @import "minima";
 
+$theme-colors: (
+  "primary": #2196F3,
+  "warning": #FFAB40
+);
+
 @import "vendors/bootstrap/scss/bootstrap";
