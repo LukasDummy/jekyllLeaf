@@ -15,8 +15,10 @@ description: Write an awesome description for your new site here. You can edit t
 navigation:
 - menu: About
   url: "/about/"
+- menu: Another one
+  url: "/another-one/"
 baseurl: "/jekyllLeaf"
-url: ''
+url: 
 twitter_username: jekyllrb
 github_username: jekyll
 markdown: kramdown
