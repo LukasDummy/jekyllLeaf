@@ -2,6 +2,9 @@
 title: JekyllLeaf
 timezone: UTC
 collections:
+  lorem-ipsum:
+    title: Lorem Ipsum
+    output: true
   people:
     title: People
     output: true
